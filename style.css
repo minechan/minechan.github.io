@@ -1,1 +1,5 @@
 @charset "utf-8";
+
+#profilepic {
+    border-radius: 16px;
+}
